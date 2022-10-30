@@ -9,6 +9,7 @@ export function showMyLoveUI() {
     h1.innerText = myLove;
     h1.style.position = "fixed";
     h1.style.zIndex = 2000;
+    h1.style.color = "white";
     h1.style.fontSize = 100+"px";
     h1.style.fontWeight = "bold";
     h1.style.top = 0;
